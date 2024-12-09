@@ -8,7 +8,7 @@
     "stack": "container",
     "env": {
          "BotName": {
-             "description": "Enter your desired bot\"s name (Eg:- Queen Anya)",
+             "description": "New bot",
              "required": false
          },
          "Footer": {
@@ -24,11 +24,11 @@
             "required": false
          },
          "Owner_Name": {
-            "description": "Enter owner's name",
+            "description": "M Shahid",
             "required": true
          },
          "Owner_Number": {
-            "description": "Enter Owner's Number with country code",
+            "description": "923361937779",
             "required": true
          },
          "Insta": {
@@ -68,7 +68,7 @@
             "required": true
          },
          "SESSION_ID": {
-            "description": "Enter your session id",
+            "description": "9yqjHT_A_N_Y_A_V_2_OuRuPsIMmrtRMQ",
             "required": true
          }
     },
